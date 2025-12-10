@@ -1,2 +1,1 @@
-Medicare is a national social insurance program administered by the U.S. federal government. Using public dataset created by CMS (Centres of Medicare and Medicaid Services), performed Exploratory Data Analysis and identified nursing facilities with similar features using Clustering. 
-This was an academic project. 
+Medicare is a national social insurance program administered by the U.S. federal government. Using public dataset created by CMS (Centres of Medicare and Medicaid Services), performed Exploratory Data Analysis and identified nursing facilities with similar features using Clustering.
